@@ -1,0 +1,4 @@
+-  Hi, I’m @ibrahimalamri
+-  I’m interested in sql and data visualization tools
+-  I’m currently learning data analytics 
+-  you can reach me at isomari@moj.gov.sa
